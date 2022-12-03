@@ -1,5 +1,5 @@
 # Gauss-Elimination
-Here, Code of  Eular Method of Computer Oriented Numerical Methods in Java Language. In this method, the problem of systems of linear equation having n unknown variables, matrix having rows n and columns n+1 is formed. This matrix is also known as Augmented Matrix. After forming n x n+1 matrix, matrix is transformed to upper trainagular matrix by row operations. Finally result is obtained by Back Substitution.
+Here, Code of  Gauss Elimination Method of Computer Oriented Numerical Methods in Java Language. In this method, the problem of systems of linear equation having n unknown variables, matrix having rows n and columns n+1 is formed. This matrix is also known as Augmented Matrix. After forming n x n+1 matrix, matrix is transformed to upper trainagular matrix by row operations. Finally result is obtained by Back Substitution.
 # Project title
 
 Gauss-Elimination Method
